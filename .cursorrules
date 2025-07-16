@@ -1,0 +1,30 @@
+# Frontend Development Documentation
+
+## Next.js App Router
+@docs https://nextjs.org/docs/app
+@docs https://nextjs.org/docs/app/building-your-application/routing
+@docs https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts
+@docs https://nextjs.org/docs/app/building-your-application/optimizing/metadata
+
+## TailwindCSS
+@docs https://tailwindcss.com/docs
+@docs https://tailwindcss.com/docs/theme
+@docs https://tailwindcss.com/docs/dark-mode
+
+## ShadCN/UI Components
+@docs https://ui.shadcn.com/docs
+@docs https://ui.shadcn.com/docs/installation
+@docs https://ui.shadcn.com/docs/theming
+@docs https://ui.shadcn.com/docs/components
+
+## Zustand State Management
+@docs https://docs.pmnd.rs/zustand/getting-started/introduction
+@docs https://docs.pmnd.rs/zustand/integrations/persisting-store-data
+
+## Frontend Testing
+@docs https://vitest.dev/guide/
+@docs https://testing-library.com/docs/react-testing-library/intro
+
+## Code Quality & Formatting
+@docs https://eslint.org/docs/latest/user-guide/getting-started
+@docs https://prettier.io/docs/en/index.html 
